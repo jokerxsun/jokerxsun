@@ -3,11 +3,6 @@
 - 🔭 My name is Xu, an iOS software engineer.
 - 🌱 I’m currently learning Swift
 
-<!--
-**jokerxsun/jokerxsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### GitHub Stats
 
-Here are some ideas to get you started:
-
-- 🔭 My name is Xu, an iOS software engineer.
-- 🌱 I’m currently learning Swift
--->
+<img src="https://github-readme-stats.vercel.app/api?username=jokerxsun&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff" />
